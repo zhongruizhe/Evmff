@@ -1,0 +1,3 @@
+备份所有源文件
+首先，通过ActivityNetCaptionsIteratorDataset更改参数
+transformer网络结构中加入到src中，传入函数在run_epoch 310
